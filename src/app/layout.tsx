@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'CodeWise AI',
-  description: 'AI-powered code analysis and improvement',
+  title: 'Polyglot Code',
+  description: 'AI-powered code convertor',
 };
 
 export default function RootLayout({
